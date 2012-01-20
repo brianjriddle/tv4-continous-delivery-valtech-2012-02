@@ -6,6 +6,7 @@
 * Swedens largest commercial TV channel
 * 900~ employees
 * 10 channels and 25 local stations
+* www.tv4.se, www.tv4play.se, fotbollskanalen.se, recept.nu
 
 !SLIDE bullets 
 # who is tv4 digital media?#
@@ -19,25 +20,55 @@
 * operations
 * ruby/jruby since 2007
 
-!SLIDE bullets
-* what's this flickr img](flickr img)
+!SLIDE center
+What's this?
 
-!SLIDE bullets
-* 2007 one button deploy 
-* :( not possible
+![one button deploy](one-button-deploy.jpg)
+
+!SLIDE center
+Recognize this?
+
+![flickr deploy](flickr-blacked-out.jpg)
+
+.notes from code.flickr.com
+
+!SLIDE center
+Read this?
+
+![flickr deploy](cover_large.png)
+
+.notes cal henderson
+
+!SLIDE 
+2005-6 search one button deploy 
+
+.notes video flickr way to deploy
+got my boss at the time to watch
+
+!SLIDE center 
+![but-i-gave-it-too-you](but-i-gave-it-to-you.jpg)
+.notes cool but never going to happen
 
 !SLIDE bullets
 * spolsky test (2000)
 * Can you make a build in 1 step
 
-!SLIDE bullets
-* Continous Compilation
-* broken deliveries
-* software can't be deployed
+!SLIDE center
 
-!SLIDE bullets
-* WELC
-* (WELC)[WELC picture]
+starting small
+
+.notes cause you have nothging to begin with
+
+!SLIDE bullets incremental
+* Broken deliveries
+* Software can't be deployed
+* Continous Compilation
+
+.notes new job/new tech/new company
+
+
+!SLIDE 
+![ WELC ]( welc.jpg )
 
 !SLIDE 
 * Continous Testing/metrics
@@ -46,9 +77,19 @@
 !SLIDE
 * first jenkins machine
 
-!SLIDE bullets
-* Compiling JSP
-* (resin/tomcat gist)[link]
+
+!SLIDE xml smaller
+    @@@ xml
+    <target name="compile-jsp" depends="compile" 
+            description="precompile jsp">
+        <java classname="com.caucho.jsp.JspCompiler" 
+              fork="true" failonerror="true">
+          <classpath refid="resin.classpath" />
+          <arg line="-app-dir ${src.web.dispatcher.dir} ${src.web.dispatcher.dir}" />
+        </java>
+    </target>
+
+http://gist.github.com/320606.js?file=resin-jsp-compile.xml
 
 !SLIDE
 * Consitency
@@ -62,7 +103,7 @@
 
 !SLIDE
 * Deploy till it doesn't hurt (much)
-* Prod every 6-8 weks
+* Prod every 6-8 weeks
 * Set up Continous Compilation, Continous Unit Testing
 * Set up jenkins
 * Deploy every week
@@ -105,7 +146,7 @@
 
 !SLIDE
 * Async messaging
-* I ♥ mail
+* I mail
 * user filters.
     * 0 inbox kinda hard w/ 50 mail a day
 * only broken or fixed(mail)
@@ -114,9 +155,9 @@
 * Not all systems can auto deploy
 * CMS(Polopoly)
 * Wordpress
-* Mule (ihave to copy how many petabytes)
+* Mule (i have to copy how many petabytes)
 * Ruby (Heroku, warbler, capistrano)
-* Avoided db migrations. so far.
+* Avoided db migrations so far.
 
 
 !SLIDE center
@@ -130,3 +171,7 @@ http://http.tv4.se
 http://github.com/TV4
 
 http://github.com/brianjriddle
+
+!SLIDE
+http://eef-ink.com/i-gave-it-to-you-comic/
+
