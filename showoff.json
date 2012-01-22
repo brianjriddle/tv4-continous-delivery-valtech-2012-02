@@ -1,1 +1,8 @@
-{ "name": "crash and burn 2012", "sections": [ {"section":"one"} ]}
+{ 
+    "name": "crash and burn 2012", 
+    "sections": [ 
+    {"section":"intro"},
+    {"section":"tv4"},
+    {"section":"credits"}
+    ]
+}

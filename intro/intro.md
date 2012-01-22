@@ -1,0 +1,23 @@
+!SLIDE 
+# One button deploys #
+
+!SLIDE bullets 
+# who is tv4?#
+* Swedens largest commercial TV channel
+* 900~ employees
+* 10 channels and 25 local stations
+* www.tv4.se, www.tv4play.se, fotbollskanalen.se, recept.nu
+
+!SLIDE bullets 
+# who is tv4 digital media?#
+* 4 full time developers
+* java, ruby, php, node
+* operations and development
+
+!SLIDE bullets 
+#who am i
+* developer - shackled to a cms 10+ years
+* operations
+* ruby/jruby since 2007
+
+
