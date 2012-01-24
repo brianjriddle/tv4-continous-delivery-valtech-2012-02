@@ -18,7 +18,7 @@ Read this?
 .notes cal henderson
 
 !SLIDE 
-2005-6 search one button deploy 
+2005-6 search for one button deploys 
 
 .notes video flickr way to deploy
 got my boss at the time to watch
@@ -30,4 +30,3 @@ got my boss at the time to watch
 !SLIDE bullets
 * spolsky test (2000)
 * Can you make a build in 1 step
-
