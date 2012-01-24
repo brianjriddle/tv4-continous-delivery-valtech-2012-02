@@ -6,7 +6,7 @@
 * Swedens largest commercial TV channel
 * 900~ employees
 * 10 channels and 25 local stations
-* www.tv4.se, www.tv4play.se, fotbollskanalen.se, recept.nu
+* www.tv4.se, www.tv4play.se
 
 !SLIDE bullets 
 # who is tv4 digital media?#
@@ -20,4 +20,5 @@
 * operations
 * ruby/jruby since 2007
 
+.notes have worked mainly with legacy cms systems
 

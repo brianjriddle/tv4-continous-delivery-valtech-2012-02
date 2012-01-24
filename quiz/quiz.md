@@ -20,13 +20,14 @@ Read this?
 !SLIDE 
 2005-6 search for one button deploys 
 
-.notes video flickr way to deploy
+.notes video of flickr way to deploy
 got my boss at the time to watch
 
 !SLIDE center 
 ![but-i-gave-it-too-you](but-i-gave-it-to-you.jpg)
-.notes cool but never going to happen
 
-!SLIDE bullets
+.notes cool but never going to happen not completely true as it did happen 2 years later.
+
+!SLIDE 
 * spolsky test (2000)
-* Can you make a build in 1 step
+* Can you make a build in one step
