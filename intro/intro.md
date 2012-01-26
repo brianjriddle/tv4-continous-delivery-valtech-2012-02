@@ -1,5 +1,6 @@
 !SLIDE 
-# One button deploys #
+# Continuous Integration #
+the good, bad and ugly 
 
 !SLIDE bullets 
 # who is tv4?#

@@ -12,5 +12,5 @@ http://github.com/brianjriddle
 
 !SLIDE
 http://eef-ink.com/i-gave-it-to-you-comic/
-
+http://www.flickr.com/photos/locace/
 
