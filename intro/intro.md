@@ -19,7 +19,7 @@ the good, bad and ugly
 #who am i
 * developer - shackled to a cms 10+ years
 * operations
-* ruby/jruby since 2007
+* java/ruby/jruby
 
 .notes have worked mainly with legacy cms systems
 

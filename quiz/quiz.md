@@ -28,6 +28,7 @@ got my boss at the time to watch
 
 .notes cool but never going to happen not completely true as it did happen 2 years later.
 
-!SLIDE 
-* spolsky test (2000)
-* Can you make a build in one step
+!SLIDE center
+spolsky test (2000)
+
+Can you make a build in one step
