@@ -1,16 +1,16 @@
 !SLIDE 
-# Continuous Integration #
+# Continuous Integration 
 the good, bad and ugly 
 
 !SLIDE bullets 
-# who is tv4?#
+# tv4
 * Swedens largest commercial TV channel
 * 900~ employees
 * 10 channels and 25 local stations
 * www.tv4.se, www.tv4play.se
 
 !SLIDE bullets 
-# who is tv4 digital media?#
+# tv4 digital media
 * 4 full time developers
 * java, ruby, php, node
 * operations and development
