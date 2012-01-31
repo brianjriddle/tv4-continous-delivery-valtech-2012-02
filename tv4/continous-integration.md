@@ -149,7 +149,7 @@ this is extremely seductive
 
 !SLIDE transition=fade
 
-could we do this with the other projects?
+##could we do this with the other projects?
 
 .notes and does it have to be a person that does it can't it happen automatically? 
 this is when we really started making jenkins work hard
