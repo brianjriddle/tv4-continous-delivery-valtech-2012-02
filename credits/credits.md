@@ -1,14 +1,14 @@
 !SLIDE center
-#thanks#
+#thanks
 ![brianjriddle](brian.gif)
 
-http://http.tv4.se
+####http://http.tv4.se
 
-@brianjriddle
+####@brianjriddle
 
-http://github.com/TV4
+####http://github.com/TV4
 
-http://github.com/brianjriddle
+####http://github.com/brianjriddle
 
 !SLIDE bullets center
 * http://eef-ink.com/i-gave-it-to-you-comic/
