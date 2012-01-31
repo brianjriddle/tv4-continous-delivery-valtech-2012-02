@@ -2,8 +2,9 @@
 2007-8 cms migration
 
 .notes Migration from custom cms to 'off' the shelf solution.
-70.000 line java/jsp/html/js/xml ?HOW MANY?
-15 testcases
+1.000.000 line java/jsp/html/js/xml don't read to much into this as
+there 140.000 lines javascript.
+15 testcases 738 lines
 deployed Prod irregular but could go as long as every 6-8 weeks
 
 !SLIDE  transition=fade
@@ -35,7 +36,7 @@ first jenkins machine
 
 .notes same machine as my development environment.
 
-!SLIDE transition=fade
+!SLIDE center transition=fade
     java -jar jenkins.war
 
 .notes one terminal, one jar, alittle configuration and your off!
@@ -131,6 +132,9 @@ lots of hand holding.
 
 !SLIDE bullets center transisition=fade
 * git push origin master
+
+!SLIDE bullets center transisition=fade
+* git push heroku master
 
 .notes everybody in the team could do this. when ever they needed. 
 heroku was showing us the value of deploying when ever we want
