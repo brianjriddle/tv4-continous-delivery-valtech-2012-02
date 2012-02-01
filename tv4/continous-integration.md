@@ -9,8 +9,8 @@ deployed prod irregular but could go as long as every 6-8 weeks
 
 !SLIDE  transition=fade
 ![broken deliveries](broken_record.jpg)
-.notes 
-one group of developers/business managers per site. no processes.
+
+.notes one group of developers/business managers per site. no processes.
 may not be bad but engineering practices didn't exist either
 long time between deploy process
 silos everywhere
