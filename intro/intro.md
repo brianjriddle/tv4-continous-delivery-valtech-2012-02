@@ -1,3 +1,13 @@
+!SLIDE
+continous integration
+
+slides valtech sweden 2012-02-01 
+
+if you want to see my notes try 
+[presenter](/presenter)
+
+note opens 2 windows
+
 !SLIDE 
 # Continuous Integration 
 the good, bad and ugly 
