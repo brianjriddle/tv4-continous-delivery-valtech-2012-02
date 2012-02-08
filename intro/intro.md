@@ -4,8 +4,7 @@ continous integration
 slides valtech sweden 2012-02-01 
 
 if you want to see my notes try press **n**
-
-note opens 2 windows
+and run in full screen
 
 .notes now you can see my notes!
 
