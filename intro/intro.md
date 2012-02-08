@@ -3,10 +3,11 @@ continous integration
 
 slides valtech sweden 2012-02-01 
 
-if you want to see my notes try 
-[presenter](/presenter)
+if you want to see my notes try press **n**
 
 note opens 2 windows
+
+.notes now you can see my notes!
 
 !SLIDE 
 # Continuous Integration 
