@@ -21,5 +21,8 @@ the good, bad and ugly
 * operations
 * java/ruby/jruby
 
-.notes have worked mainly with legacy cms systems
+~~~SECTION:notes~~~
 
+have worked mainly with legacy cms systems
+
+~~~ENDSECTION~~~
